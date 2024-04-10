@@ -1,0 +1,14 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "允许用户浏览页面以及上传文件的简单 Node.js 应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^3.5.1"
+  }
+}
